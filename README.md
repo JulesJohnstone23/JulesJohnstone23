@@ -1,4 +1,4 @@
-**Hi there 👋 **
+__Hi there 👋__
 
 I am a second-year Electrical Engineering student, currently pursuing a specialization in Power Systems Engineering.
 
